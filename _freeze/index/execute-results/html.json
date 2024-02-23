@@ -1,0 +1,15 @@
+{
+  "hash": "54b78d4b8e8e11ccd31b9d1a516534e8",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Welcome Page\"\n---\n\n\nWelcome to Thomas Blakely's Personal Website, where he hopes to upload his personal projects soon!\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

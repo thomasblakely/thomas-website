@@ -1,0 +1,11 @@
+---
+title: "Welcome Page"
+---
+
+Welcome to Thomas Blakely's Personal Website, where he hopes to upload his personal projects soon!
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
