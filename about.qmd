@@ -1,9 +1,22 @@
 ---
-title: "About"
+title: "Thomas Blakely"
+image: profile_picture.png
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links: 
+    - text: Email
+      url: "mailto:YlekalbSamoht@gmail.com"
+      icon: inbox-fill
+    - text: GitHub
+      url: "https://github.com/thomasblakely"
+      icon: github
+    - text: LinkedIn
+      url: "https://linkedin.com/in/thomasedwardblakely"
+      icon: people
+
+comments: false
 ---
 
-About this site
 
-```{r}
-1 + 1
-```

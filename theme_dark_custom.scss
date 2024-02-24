@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+$body-bg: #303030;
+$body-color: white;
+$link-color: #75AADB;
+$code-block-bg-alpha: 0.5;
+
+/*-- scss:rules --*/
+body {
+  background-color: $body-bg;
+  color: $body-color;
+}
+
+a {
+  color: $link-color;
+}

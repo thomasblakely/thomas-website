@@ -6,13 +6,23 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: [cosmo, theme_dark_custom.scss]
     css: styles.css
     toc: true
+    html-footer: "_partials/custom-footer.html"
 
 editor: visual
 
