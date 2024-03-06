@@ -1,0 +1,13 @@
+---
+title: "COVID-19 and Class Modality"
+author: "Thomas Blakely"
+date: "2024-02-24"
+categories: [analysis, policy]
+image: "modality_image.jpeg"
+---
+
+Back in Spring 2022, with the COVID-19 pandemic relatively stabilizing, there was a fair amount of administrative discussion at Las Positas College on how to approach the Fall 2022 semester. One area of focus was on what modality classes should be offered, with talks of returning to a pre-pandemic format. This project attempted to tackle this issue by surveying 110 students, analyzing the results, and then formalizing said results into a policy brief.
+
+Looking back on this project, however, I definitely notice some weaknesses in my analysis. Since this project was my "penultimate project" at community college, and at the time of writing this, I am now near the completion of my undergraduate career, I thought it would be interesting to reanalyze this dataset I gathered two years ago and apply the skills I learned at UCLA.
+
+TO BE ADDED MARCH 26, 2024

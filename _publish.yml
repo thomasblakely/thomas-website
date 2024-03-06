@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1a09b920-1db8-4bac-9c51-7c4915291664
+      url: 'https://blakelythomas.com'

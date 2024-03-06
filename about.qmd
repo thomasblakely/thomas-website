@@ -1,9 +1,8 @@
 ---
-title: "Thomas Blakely"
-image: profile_picture.png
+image: profile_pic.png
 about: 
-  template: trestles
-  image-shape: round
+  template: broadside
+  image-shape: rounded
   image-width: 10em
   links: 
     - text: Email
@@ -15,8 +14,10 @@ about:
     - text: LinkedIn
       url: "https://linkedin.com/in/thomasedwardblakely"
       icon: people
-
+css: styles.css
 comments: false
 ---
 
-
+<div class="full-center">
+Hey there, everyone! My name is Thomas Blakely. I'm a 4th year undergraduate at UCLA studying Statistics and Data Science, Mathematics, and Economics. This website of mine is meant to serve as a way for me to document some of the projects I'm working on and my academic work. If you would like to connect, please reach out to me through one of the methods linked below. I hope to hear from you soon!
+</div>

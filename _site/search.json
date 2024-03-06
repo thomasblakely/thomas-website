@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome Page",
+    "objectID": "posts/R-Notes/index.html",
+    "href": "posts/R-Notes/index.html",
+    "title": "R Notes for Economists",
     "section": "",
-    "text": "Learn more"
+    "text": "During my time at UCLA, I was fortunate enough to take classes from a wide variety of departments. One thing I’ve noticed during this journey is that several departments have been trying to integrate R into their curriculum, which is really neat. Unfortunately, I’ve noticed students with no coding background tended to struggle in these classes.\nIn order to help these students, I’ve created this set of interactive R notes covering topics I felt I saw a lot during my time at UCLA. While these notes are not fully comprehensive of everything I’ve learned, they’re designed with the intention that anyone who goes through them should feel confident heading into any class that uses R.\nThese notes are expected to be finished in March 2024. An incomplete version of these notes can be accessed here: R Notes for Economists\nIf anyone has suggestions or recommendations for things to be added or changed to these notes, please feel free to post a comment below! Any feedback is much appreciated."
   },
   {
     "objectID": "resume.html",
@@ -12,5 +12,26 @@
     "title": "Resume",
     "section": "",
     "text": "Download Current Resume"
+  },
+  {
+    "objectID": "posts/Class-Modality/index.html",
+    "href": "posts/Class-Modality/index.html",
+    "title": "COVID-19 and Class Modality",
+    "section": "",
+    "text": "Back in Spring 2022, with the COVID-19 pandemic relatively stabilizing, there was a fair amount of administrative discussion at Las Positas College on how to approach the Fall 2022 semester. One area of focus was on what modality classes should be offered, with talks of returning to a pre-pandemic format. This project attempted to tackle this issue by surveying 110 students, analyzing the results, and then formalizing said results into a policy brief.\nLooking back on this project, however, I definitely notice some weaknesses in my analysis. Since this project was my “penultimate project” at community college, and at the time of writing this, I am now near the completion of my undergraduate career, I thought it would be interesting to reanalyze this dataset I gathered two years ago and apply the skills I learned at UCLA.\nTO BE ADDED MARCH 26, 2024"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "Los Angeles Crime Data\n\n\n\n\n\n\nanalysis\n\n\npolicy\n\n\n\n\n\n\n\n\n\nMar 13, 2024\n\n\nThomas Blakely\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID-19 and Class Modality\n\n\n\n\n\n\nanalysis\n\n\npolicy\n\n\n\n\n\n\n\n\n\nFeb 24, 2024\n\n\nThomas Blakely\n\n\n\n\n\n\n\n\n\n\n\n\nR Notes for Economists\n\n\n\n\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nFeb 24, 2024\n\n\nThomas Blakely\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "",
+    "section": "",
+    "text": "Hey there, everyone! My name is Thomas Blakely. I’m a 4th year undergraduate at UCLA studying Statistics and Data Science, Mathematics, and Economics. This website of mine is meant to serve as a way for me to document some of the projects I’m working on and my academic work. If you would like to connect, please reach out to me through one of the methods linked below. I hope to hear from you soon!"
   }
 ]

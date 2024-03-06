@@ -1,1 +1,8 @@
 /* css styles */
+.full-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* This makes the container as tall as the viewport */
+  text-align: center;
+}

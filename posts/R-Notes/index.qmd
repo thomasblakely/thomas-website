@@ -1,0 +1,24 @@
+---
+title: "R Notes for Economists"
+author: "Thomas Blakely"
+date: "2024-02-24"
+categories: [tutorial]
+image: learnr.png
+---
+
+During my time at UCLA, I was fortunate enough to take classes from a wide variety of departments. One thing I've noticed during this journey is that several departments have been trying to integrate R into their curriculum, which is really neat. Unfortunately, I've noticed students with no coding background tended to struggle in these classes.
+
+In order to help these students, I've created this set of interactive R notes covering topics I felt I saw a lot during my time at UCLA. While these notes are not fully comprehensive of everything I've learned, they're designed with the intention that anyone who goes through them should feel confident heading into any class that uses R.
+
+These notes are expected to be finished in March 2024. An incomplete version of these notes can be accessed here: [R Notes for Economists](https://thomasblakely.shinyapps.io/R_Notes_1_04/#section-introduction)
+
+If anyone has suggestions or recommendations for things to be added or changed to these notes, please feel free to post a comment below! Any feedback is much appreciated.
+
+<script
+src="https://utteranc.es/client.js"
+repo="thomasblakely/thomas-website"
+issue-term="pathname"
+theme="github-light"
+crossorigin="anonymous"
+async>
+</script>

@@ -1,0 +1,15 @@
+{
+  "hash": "0130b808412542f3b2a9057b868276b4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Test post\ncategories: [test, code]\nimage: \"annoyed_penguin.jpg\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
